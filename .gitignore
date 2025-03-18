@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Large binary files
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# OS specific
+.DS_Store
+Thumbs.db 
